@@ -1,3 +1,32 @@
 * {
   /* globals-style */
 }
+
+.common-div {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#div-1 {
+  background-color: blue;
+}
+
+#div-2 {
+  background-color: red;
+}
+#div-3 {
+  background-color: green;
+}
+
+#div-4 {
+  background-color: yellow;
+}
+
+#key-div {
+  background-color: white;
+  border: solid black 2px;
+  text-align: center;
+  vertical-align: middle;
+}
